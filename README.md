@@ -66,7 +66,7 @@ git push origin feature-branch
 📚 Acknowledgements
 * [LibriSeVoc](https://drive.google.com/file/d/1NXF9w0YxzVjIAwGm_9Ku7wfLHVbsT7aG/view) Dataset for providing audio samples.
 * PyTorch and Torchaudio for efficient deep learning and audio processing capabilities.
-* RawNet architecture, which serves as the backbone for our model.
+* [RawNet](https://arxiv.org/abs/1904.08104) architecture, which serves as the backbone for our model.
   
 📝 Future Improvements
 - Extend the system to handle real-time audio streams.
